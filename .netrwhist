@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/alexrossiignez/ohne-api'
+let g:netrw_dirhist_6='/Users/alexrossiignez/temp'
+let g:netrw_dirhist_5='/Users/alexrossiignez/banga-api'
+let g:netrw_dirhist_4='/Users/alexrossiignez/availability-rest/src/express'
+let g:netrw_dirhist_3='/Users/alexrossiignez/availability-rest/migrations'
+let g:netrw_dirhist_2='/Users/alexrossiignez/ohne-api'
+let g:netrw_dirhist_1='/Users/alexrossiignez/ohne-api/.git'
+let g:netrw_dirhist_0='/Users/alexrossiignez/ohne-api/src/address'
+let g:netrw_dirhist_9='/Users/alexrossiignez/yld/.git'
+let g:netrw_dirhist_8='/Users/alexrossiignez/ohne-api/.git'
